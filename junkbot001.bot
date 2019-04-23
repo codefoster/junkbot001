@@ -1,0 +1,15 @@
+{
+    "name": "junkbot001",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "afd0a002-a913-4326-bd1a-0ed20a371dc2",
+            "appPassword": "ftlenAOV070[%hxXVBF40)~",
+            "id": "1"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
