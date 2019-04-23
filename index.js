@@ -54,8 +54,6 @@ try {
 
 // Get bot endpoint configuration by service name
 const endpointConfig = botConfig.findServiceByNameOrId(BOT_CONFIGURATION);
-console.log(BOT_CONFIGURATION);
-console.log(endpointConfig);
 
 // Create adapter.
 // See https://aka.ms/about-bot-adapter to learn more about .bot file its use and bot configuration.
