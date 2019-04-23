@@ -4,21 +4,23 @@
     "services": [
         {
             "type": "endpoint",
-            "name": "development",
-            "endpoint": "http://junkbot001.azurewebsites.net/api/messages",
             "appId": "afd0a002-a913-4326-bd1a-0ed20a371dc2",
-            "appPassword": "avAkr/pwGaK7nmOpfOe9yw==!CmkqmP0rQ9o8cUqFL8RKQUbI5gqOWI4NEqXwEr9RMUw=",
-            "id": "1"
+            "appPassword": "ftlenAOV070[%hxXVBF40)~",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "1",
+            "name": "development"
         },
         {
             "type": "endpoint",
-            "name": "production",
             "appId": "afd0a002-a913-4326-bd1a-0ed20a371dc2",
-            "appPassword": "m2sM6Metp1gAPqJZoF74aw==!PpltHt9DvAjA4oxKbkEviUskQmDJvhiNLl2ejVNbJFOOLndKTfxFSbdFJiaPYnqP3yZ6dmkv7sHcAhaOqgsI3+CDWWaB5olcGBxxJO8KgPQ=",
+            "appPassword": "tyhJP59})kzifLPPTV423]:",
             "endpoint": "https://junkbot001.azurewebsites.net/api/messages",
-            "id": "235"
+            "id": "235",
+            "name": "production"
         }
     ],
-    "padlock": "HdIoD/E0pNQohg519Huacw==!8Z8rkEr+uo+HBIgj7tsq3qnZ0DgAEDBIfZ1mTfxSNG6I9QJyfyt8wII31n1p5EOx",
-    "version": "2.0"
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\scratch\\junkbot-001\\junkbot001.bot"
 }
