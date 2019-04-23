@@ -5,11 +5,20 @@
         {
             "type": "endpoint",
             "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "afd0a002-a913-4326-bd1a-0ed20a371dc2",
+            "appPassword": "Nq1ri41ezKcHQTpm682V1Q==!1W2OgYnVc7UN1ILPa7Dfohl2NG+kSqViK6/p7/nGZmg=",
+            "id": "1"
+        },
+        {
+            "type": "endpoint",
+            "name": "production",
             "endpoint": "http://junkbot001.azurewebsites.net/api/messages",
             "appId": "afd0a002-a913-4326-bd1a-0ed20a371dc2",
             "appPassword": "Nq1ri41ezKcHQTpm682V1Q==!1W2OgYnVc7UN1ILPa7Dfohl2NG+kSqViK6/p7/nGZmg=",
             "id": "1"
         }
+
     ],
     "padlock": "HdIoD/E0pNQohg519Huacw==!8Z8rkEr+uo+HBIgj7tsq3qnZ0DgAEDBIfZ1mTfxSNG6I9QJyfyt8wII31n1p5EOx",
     "version": "2.0"
