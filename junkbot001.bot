@@ -15,7 +15,7 @@
             "name": "production",
             "appId": "afd0a002-a913-4326-bd1a-0ed20a371dc2",
             "appPassword": "tyhJP59})kzifLPPTV423]:",
-            "endpoint": "http://junkbot001.azurewebsites.net/api/messages",
+            "endpoint": "https://junkbot001.azurewebsites.net/api/messages",
             "id": "186"
         }
     ],
