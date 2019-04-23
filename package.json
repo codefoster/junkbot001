@@ -5,6 +5,10 @@
     "author": "Generated using Microsoft Bot Builder Yeoman generator v4.2.6",
     "license": "MIT",
     "main": "index.js",
+    "engines": {
+        "node": ">=10.0.0",
+        "npm": ">=6.0.0"
+    },
     "scripts": {
         "lint": "./node_modules/.bin/eslint .",
         "start": "node ./index.js",
