@@ -77,6 +77,7 @@ const myBot = new MyBot();
 
 // Listen for incoming requests.
 server.post('/api/messages', (req, res) => {
+    console.log('in /api/messages')
     adapter.processActivity(req, res, async (context) => {
         // Route to main dialog.
         await myBot.onTurn(context);
