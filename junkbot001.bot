@@ -5,7 +5,7 @@
         {
             "type": "endpoint",
             "name": "development",
-            "endpoint": "http://localhost:3978/api/messages",
+            "endpoint": "http://junkbot001.azurewebsites.net/api/messages",
             "appId": "afd0a002-a913-4326-bd1a-0ed20a371dc2",
             "appPassword": "Nq1ri41ezKcHQTpm682V1Q==!1W2OgYnVc7UN1ILPa7Dfohl2NG+kSqViK6/p7/nGZmg=",
             "id": "1"
