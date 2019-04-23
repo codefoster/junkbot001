@@ -4,23 +4,21 @@
     "services": [
         {
             "type": "endpoint",
-            "appId": "afd0a002-a913-4326-bd1a-0ed20a371dc2",
-            "appPassword": "ftlenAOV070[%hxXVBF40)~",
+            "name": "junkbot001",
             "endpoint": "http://localhost:3978/api/messages",
-            "id": "1",
-            "name": "development"
+            "appId": "afd0a002-a913-4326-bd1a-0ed20a371dc2",
+            "appPassword": "tyhJP59})kzifLPPTV423]:",
+            "id": "194"
         },
         {
             "type": "endpoint",
+            "name": "production",
             "appId": "afd0a002-a913-4326-bd1a-0ed20a371dc2",
             "appPassword": "tyhJP59})kzifLPPTV423]:",
-            "endpoint": "https://junkbot001.azurewebsites.net/api/messages",
-            "id": "235",
-            "name": "production"
+            "endpoint": "http://junkbot001.azurewebsites.net/api/messages",
+            "id": "186"
         }
     ],
     "padlock": "",
-    "version": "2.0",
-    "overrides": null,
-    "path": "C:\\scratch\\junkbot-001\\junkbot001.bot"
+    "version": "2.0"
 }
