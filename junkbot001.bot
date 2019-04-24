@@ -7,18 +7,18 @@
             "name": "development",
             "endpoint": "http://localhost:3978/api/messages",
             "appId": "afd0a002-a913-4326-bd1a-0ed20a371dc2",
-            "appPassword": "tyhJP59})kzifLPPTV423]:",
+            "appPassword": "LAI/TrE5BjSGuiZELrar+w==!afdDSrtATSz04zpe24I64IDhIrrm1uVRNJHnRrhr0Jc=",
             "id": "194"
         },
         {
             "type": "endpoint",
             "name": "production",
             "appId": "afd0a002-a913-4326-bd1a-0ed20a371dc2",
-            "appPassword": "tyhJP59})kzifLPPTV423]:",
+            "appPassword": "S6I2+TQGPhDxu/CJtwRkKA==!+u4HxCJ9niH0P4B2i9lU7qfsNWKWazrYwxqykr431GU=",
             "endpoint": "https://junkbot001.azurewebsites.net/api/messages",
             "id": "186"
         }
     ],
-    "padlock": "",
+    "padlock": "sAEJsQVvxpJy3G1239cI9Q==!/eZPIVE2YmPDdWO3wEY4e54NvOjp/2DUUCcR3zTEgGc71mhIaEqGK50VcvWxIDDi",
     "version": "2.0"
 }
