@@ -62,8 +62,8 @@ const adapter = new BotFrameworkAdapter({
     appPassword: endpointConfig.appPassword || process.env.microsoftAppPassword
 });
 
-console.log("adapter.appId: " + adapter.appId);
-console.log("adapter.appPassword: " + adapter.appPassword);
+console.log("adapter.appId: " + endpointConfig.appId || process.env.microsoftAppID);
+console.log("adapter.appPassword: " + endpointConfig.appPassword || process.env.microsoftAppPassword);
 
 // Catch-all for errors.
 adapter.onTurnError = async (context, error) => {
